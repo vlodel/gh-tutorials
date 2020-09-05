@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"ent health ptr"</Description>
+      <LastState Value="74" RealAddress="63642EA0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+04D534FC</Address>
+      <Offsets>
+        <Offset>100</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"ent health"</Description>
+      <LastState Value="74" RealAddress="63642EA0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>63642DA0 + 100</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"ent ptr"</Description>
+      <LastState Value="1667509664" RealAddress="32C434FC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+04D534FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"ent"</Description>
+      <LastState Value="782539332" RealAddress="63642DA0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>63642DA0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"bDormant bot1"</Description>
+      <LastState Value="1" RealAddress="63642E8D"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+04D534FC</Address>
+      <Offsets>
+        <Offset>ED</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"health"</Description>
+      <LastState Value="8814" RealAddress="7814CC90"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7814CC90</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"health ptr"</Description>
+      <LastState Value="100" RealAddress="3BDC05A0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+00D3EC6C</Address>
+      <Offsets>
+        <Offset>100</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"mShotsFired"</Description>
+      <LastState Value="4294967295" RealAddress="3BDCA820"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+00D3EC6C</Address>
+      <Offsets>
+        <Offset>0A380</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"bot_t_health_ptr"</Description>
+      <LastState Value="100" RealAddress="5B6BA460"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+04D5350C</Address>
+      <Offsets>
+        <Offset>100</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"bot_t_health"</Description>
+      <LastState Value="100" RealAddress="5B6BA460"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>5B6BA460</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"bot_t_ptr"</Description>
+      <LastState Value="1533780832" RealAddress="32C4350C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"client.dll"+04D5350C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>52</ID>
+      <Description>"bot_t"</Description>
+      <LastState Value="782539332" RealAddress="5B6BA360"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>5B6BA360</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
