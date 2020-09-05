@@ -395,3 +395,5 @@ FodyWeavers.xsd
 *.exe
 *.out
 *.app
+
+.gitignore
